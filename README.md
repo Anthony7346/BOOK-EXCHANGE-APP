@@ -26,27 +26,27 @@ Installation Steps:
 
 Additional Configuration:
 
-After installation, launch the app and follow the on-screen instructions to set up your profile and login details.
+- After installation, launch the app and follow the on-screen instructions to set up your profile and login details.
 
 
 First-Time App Launch:
 
-To launch the BEA Book Exchange App, find its icon in your app drawer or home screen.
-Tap the icon to open the app and start using it for book exchanges.
+- To launch the BEA Book Exchange App, find its icon in your app drawer or home screen.
+- Tap the icon to open the app and start using it for book exchanges.
 
 
 Troubleshooting:
 
 If you encounter any issues during installation or setup, try the following:
-Clear the app cache in your device's settings.
-Restart your device and try the installation again.
+- Clear the app cache in your device's settings.
+- Restart your device and try the installation again.
 
 
 Conclusion:
 
-Thank you for installing the BEA Book Exchange App. We hope you enjoy seamless book exchanges through our platform.
+- Thank you for installing the BEA Book Exchange App. We hope you enjoy seamless book exchanges through our platform.
 
 
 Support:
 
-For any questions or assistance, feel free to reach out to us at anthony2wk@gmail.com.
+- For any questions or assistance, feel free to reach out to us at anthony2wk@gmail.com.
