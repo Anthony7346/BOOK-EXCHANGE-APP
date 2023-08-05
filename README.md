@@ -11,21 +11,21 @@ Download the APK:
 Click on the following link to download the BEA Book Exchange App APK: [Provide the download link here].
 Enable Unknown Sources:
 Before proceeding with the installation, enable the "Unknown Sources" option in your device's settings. Here's how:
-a. Go to "Settings" on your device.
-b. Scroll down and select "Security" or "Privacy" (depending on your device).
-c. Find the "Unknown Sources" option and toggle it on.
+- Go to "Settings" on your device.
+- Scroll down and select "Security" or "Privacy" (depending on your device).
+- Find the "Unknown Sources" option and toggle it on.
 
 Installation Steps:
-a. Open your device's file manager and locate the downloaded APK file.
-b. Tap on the APK file to begin the installation.
-c. A prompt might appear, asking for permission to install from an unknown source. Tap "Allow" or "OK" to proceed.
-d. The installation process will begin. Please wait until it's completed.
-e. Once installed, you will see a confirmation message.
+- Open your device's file manager and locate the downloaded APK file.
+- Tap on the APK file to begin the installation.
+- A prompt might appear, asking for permission to install from an unknown source. Tap "Allow" or "OK" to proceed.
+- The installation process will begin. Please wait until it's completed.
+- Once installed, you will see a confirmation message.
 
 Additional Configuration:
 After installation, launch the app and follow the on-screen instructions to set up your profile and login details.
-First-Time App Launch:
 
+First-Time App Launch:
 To launch the BEA Book Exchange App, find its icon in your app drawer or home screen.
 Tap the icon to open the app and start using it for book exchanges.
 
@@ -39,5 +39,3 @@ Thank you for installing the BEA Book Exchange App. We hope you enjoy seamless b
 
 Support:
 For any questions or assistance, feel free to reach out to us at anthony2wk@gmail.com.
-
-Please note that the above guide assumes you have already downloaded the APK from a trusted source. Always exercise caution and download apps from reliable sources to ensure your device's security.
