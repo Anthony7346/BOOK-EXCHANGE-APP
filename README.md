@@ -7,10 +7,9 @@ Prerequisites:
 - You need an Android smartphone or tablet to install the app.
 - The app requires Android OS version 7.0 or higher.
 
-
 Download the APK:
-
 Click on the following link to download the BEA Book Exchange App APK: https://drive.google.com/file/d/1g4F0HcUlooNVyojkm2zXpUAwA3ISLQ4I/view?usp=sharing
+
 Enable Unknown Sources:
 Before proceeding with the installation, enable the "Unknown Sources" option in your device's settings. Here's how:
 - Go to "Settings" on your device.
